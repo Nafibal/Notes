@@ -1,5 +1,30 @@
-by: Bertrand Russe
----
+author: **Bertrand Russel**
+Source of notes: [Pustaka Matahari](https://www.youtube.com/playlist?list=PL2PDW4pGJdZwy91zDgzCDnuKfI-xFK7g9)
+___
+
+# Introduction
+Filsafat adalah produk dari dua faktor; antara warisan konsep religius dan etika, serta penyelidikan ilmiah dalam arti yang luas. Sebagai disiplin, filsafat terletak di antara teologi dan sains, membahas petanyaan-pertanyaan yang belum memiliki jawaban pasti.
+
+Berbeda dengan teologi yang bergantung pada otoritas tradisi atau wahyu, filsafat menggunakan akal manusia sebagai alat utama untuk mengeksplorasi hal-hal yang tidak terjangkau oelh pengetahuan definitif. Dalam pandangan ini, filsafat mencakup wilayah "abu-abu" yang tidak sepenuhnya dikuasai oleh teologi maupun sains, berisi pertanyaan mendalam sesperti sifat pikiran dan materi, tujuan alam semesta, dan makna hidup manusia. Pertanyaan ini tidak dapat dijawab di laboratorium, sementara jawaban teologi yang terlalu pasti sering tidak lagi memadai pikiran modern.
+
+Filsafat berfungsi untuk memahami pertanyaan-pertanyaan besar yang mendorong manusia untuk merenungkan tempatnya di alam semesta, sekaligus membantu manusia hidup dengan ketidakpastian tanpa terjebak dalam dogma yang tidak teruji.
+
+Sejak awalnya di Yunani pada abad ke-6 SM, filsafat telah mengalami berbagai fase perkembangan. Setelah berkembang pesat di dunia kuno, filsafat sempat ditenggelamkan oleh dominasi teologi pada masa kekristenan awal dan abad pertengahan. Pada periode ini, Gereja Katolik memegang kendali atas filsafat, meskipun ada beberapa tokoh yang menentang otoritasnya. Ketika memasuki era modern sejak abad ke-17, filsafat mulai dipengaruhi oleh sains, yang menantang dan memodifikasi keyakinan religius yang tradisional.
+
+Sejarah filsafat juga mencerminkan dinamika sosial yang lebih luas. Di abad pertengahan, konflik antara gereja dan negara menjadi simbil perselisihan antara tradisi Mediterania dan kebebasan individu bangsa barbar. Gereja sering menang berkat monopoli pendidikan dan otoritas spiritualnya, meskipun tantangan dari negara-negara yang mulai tumbuh kuat tidak bisa diabaikan.
+
+Periode Renaissance membawa perubahan besar, menggantikan keteraturan abad pertengahan dengan eksplorasi ide-ide baru yang berlandaskan fakta. Pada saat yang sama, Reformasi Protestan merombak struktur otoritas gereja dengan menggantinya menjadi penafsiran individu terhadap Alkitab, yang memicu munculnya berbagai sekte dan pandangan. 
+
+Subjektivisme mulai mendominasi filsafat modern, terutama melalui Descartes yang menjadikan pemikiran individu sebagai dasar kepastian. Perkembangan ini membawa filsafat menuju ekstrem seperti dalam idealisme Fichte, di mana segala sesuatu dianggap emanasi ego.
+
+Subjektivisme juga berdampak pada politik dan etika,  melahirkan anarkisme dan isolasi individu. Namun, ada reaksi terhadap perkembangan ini, seperti liberalisme yang berupaya menyeimbangkan kebebasan individu dengan kebutuhan keteraturan sosial tanpa bergantung pada dogma irasional. Liberalisme, meski berbasis rasionalitas, menghadapi tantangan dalam memastikan stabilitas sosial.
+
+Sejarah menunjukkan bahwa peradaban cenderung berkembang dari sistem yang kaku menuju periode kebebasan kreatif, tetapi kemudian menghadapi anarki yangg akhirnya mengarah pada tiran baru. Dalam konteks ini, filsafat liberal mencoba mematahkan siklus tersebut dengan menawarkan tatanan sosial yang stabil dan rasional. Meski upaya ini masih berproses, filsafat terus berfungsi sebagai jembatan antara kebutuhan akan kohesi sosial dan keinginan untuk kebebasan individu
+
+# Chapter I: The Rise of Greek Civilization
+
+
+
 **CHAPTER I The Rise of Greek Civilization**
 Dalam sejarah, perkembangan peradaban di Yunani sangat menakjubkan. Yang membuat peradaban Yunani spesial adalah pencapaian mereka dalam ranah intelektual. 
 
