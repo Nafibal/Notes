@@ -92,3 +92,15 @@ Perdagangan memainkan peran besar dalam kemajuan Yunani. Pengenalan koin dari [L
 
 ### **Literatur Yunani dan Mitologi**
 [Homer](https://en.wikipedia.org/wiki/Homer) adalah salah satu pencapaian awal paling penting dari [peradaban Hellenik](https://en.wikipedia.org/wiki/Hellenistic_period), meskipun banyak yang berpendapat bahwa ia bukan individu tunggal, melainkan penyair. Puisi epiknya, [Iliad](https://en.wikipedia.org/wiki/Iliad) dan [Odyssey](https://en.wikipedia.org/wiki/Odyssey), selesai pada periode yang diperkirakan antara 750-550 SM atau bahkan lebiih awal. Karya ini mencerminkan pandangan hidup aristokrasi beradab yang menolak banyak elemen superstisi rakyat.
+
+Dewa-dewa dalam Homer digambarkan sepenuhnya manusiawi, abadi, dan berkuasa, tetapi tidak bermoral. Meskipun demikian, konsep seperti Takdir atau Nasib yang bahkan mengikat Zeus menjaaadi cerminan awal pemikiran Yunani yang kemudian berkembaang menjadi sains dan hukum alam.
+
+Agaama Homerik lebih mencerminkan dewa-dewa penakluk aristokrasi daripada dewa kesuburan rakyat. Dalam mitologi keluarga Pelops, seperti Tantalos, Atreus, dan Agamemnon, tragedi dan kutukan antar anggota keluarga menjadi tema sentral, memperlihatkan sisi gelap budaya Yunani kuno.
+
+Kisah-kisah ini dipadukaan dengan kebangkitan peradaban Hellenik, yang menemukan bentuknyaa pada abad ke 6-SM, saat filsafat, sains, dan matematika mulai berkembang pesat, terutama di wilayah Ionia. Namun, ketika Persia menaklukkan Ionia, banyak filsuf menjadi pengungsi dan menyebarkan budaya Yunani ke wilayah lain.
+
+Sementara itu, Yunani terbaagi menjadi banyak negara-kota kecil yang independen dengan tingkat peradaban yang berbeda. Sparta, meski terkenal secara militer, tidak banyak berkontribusi pada budaya, sedangkan Korintus kaya melalui perdagangan tetapi tidak menghasilkan tokoh besar.
+
+Di pedesaan, seperti Arkadia, masih terdapat ritual kuno, sepertii pengorbanan manusa dan kanibalisme, yang mencerminkan kondisi sosial ekonomi masyarakat miskin. Dewa Pan, simbol kesuburan yang awalnya sederhana, diadopsi oleh Athena pada abad ke-5 SM sebagai simbol "ALL-God", menunjukkan bagaimana tradisi lokal dapat diangkat menjadi ikon nasional.
+
+Dalam konteks geopolitik, Yunani berhasil mempertahankan kemerdekaaannya melalui kemenangan di Salamis dan Plataea, yang sekaligus membebaskaan Ionia untuk sementara waktu. Negara-kota Yunani, meskipun terfragmentasi, memungkinkan berkembangnya budaya dan tradisi yang beragam. Hanya sebagian kecil dari negara-kota ini yang memberikan kontribusi besar pada peradaban Hellenik, tetapi warisan mereka tetap menjadi fondasi peradaban Barat hingga hari ini.
