@@ -1,4 +1,4 @@
-author: **Bertrand Russel**
+author: **Bertrand Russel**,
 Source of notes: [Pustaka Matahari](https://www.youtube.com/playlist?list=PL2PDW4pGJdZwy91zDgzCDnuKfI-xFK7g9)
 ___
 
@@ -95,12 +95,51 @@ Perdagangan memainkan peran besar dalam kemajuan Yunani. Pengenalan koin dari [L
 
 Dewa-dewa dalam Homer digambarkan sepenuhnya manusiawi, abadi, dan berkuasa, tetapi tidak bermoral. Meskipun demikian, konsep seperti Takdir atau Nasib yang bahkan mengikat Zeus menjaaadi cerminan awal pemikiran Yunani yang kemudian berkembaang menjadi sains dan hukum alam.
 
-Agaama Homerik lebih mencerminkan dewa-dewa penakluk aristokrasi daripada dewa kesuburan rakyat. Dalam mitologi keluarga Pelops, seperti Tantalos, Atreus, dan Agamemnon, tragedi dan kutukan antar anggota keluarga menjadi tema sentral, memperlihatkan sisi gelap budaya Yunani kuno.
+Agama Homerik lebih mencerminkan dewa-dewa penakluk aristokrasi daripada dewa kesuburan rakyat. Dalam mitologi keluarga Pelops, seperti Tantalos, Atreus, dan Agamemnon, tragedi dan kutukan antar anggota keluarga menjadi tema sentral, memperlihatkan sisi gelap budaya Yunani kuno.
 
 Kisah-kisah ini dipadukaan dengan kebangkitan peradaban Hellenik, yang menemukan bentuknyaa pada abad ke 6-SM, saat filsafat, sains, dan matematika mulai berkembang pesat, terutama di wilayah Ionia. Namun, ketika Persia menaklukkan Ionia, banyak filsuf menjadi pengungsi dan menyebarkan budaya Yunani ke wilayah lain.
 
 Sementara itu, Yunani terbaagi menjadi banyak negara-kota kecil yang independen dengan tingkat peradaban yang berbeda. Sparta, meski terkenal secara militer, tidak banyak berkontribusi pada budaya, sedangkan Korintus kaya melalui perdagangan tetapi tidak menghasilkan tokoh besar.
 
-Di pedesaan, seperti Arkadia, masih terdapat ritual kuno, sepertii pengorbanan manusa dan kanibalisme, yang mencerminkan kondisi sosial ekonomi masyarakat miskin. Dewa Pan, simbol kesuburan yang awalnya sederhana, diadopsi oleh Athena pada abad ke-5 SM sebagai simbol "ALL-God", menunjukkan bagaimana tradisi lokal dapat diangkat menjadi ikon nasional.
+Di pedesaan, seperti Arkadia, masih terdapat ritual kuno, sepertii pengorbanan manusa dan kanibalisme, yang mencerminkan kondisi sosial ekonomi masyarakat miskin. Dewa Pan, simbol kesuburan yang awalnya sederhana, diadopsi oleh Athena pada abad ke-5 SM sebagai simbol "All-God", menunjukkan bagaimana tradisi lokal dapat diangkat menjadi ikon nasional.
 
 Dalam konteks geopolitik, Yunani berhasil mempertahankan kemerdekaaannya melalui kemenangan di Salamis dan Plataea, yang sekaligus membebaskaan Ionia untuk sementara waktu. Negara-kota Yunani, meskipun terfragmentasi, memungkinkan berkembangnya budaya dan tradisi yang beragam. Hanya sebagian kecil dari negara-kota ini yang memberikan kontribusi besar pada peradaban Hellenik, tetapi warisan mereka tetap menjadi fondasi peradaban Barat hingga hari ini.
+
+### **Rasionalitas dan Mistisisme dalam Pemikiran Yunani**
+[Dionysus](https://en.wikipedia.org/wiki/Dionysus), atau Bacchus, awalnya adalah dewa kesuburan dari [Thrace](https://en.wikipedia.org/wiki/Thrace) yang kemudian diserap ke dalam budaya Yunani. Meskipun sering dikenal sebagai dewa anggur dan pesta pora, pengaruhnya jauh melampaui itu. Kulsut Dionysus mencerminkan reaksi terhadap peradaban yang terlalu diatur oleh moralitas dan rasionalitas.
+
+Melalui ritual yang memunculkan ekstasi fisik dan spiritual, para penyembah Dionysus mencari kebebasasn emosional dari batasan kehidupan sehari-hari. Ritual ini, meskipun sering mengandung elemen barbar seperti memakan daging mentah, memberikan pengalaman mendalam berupa enthusiasm, di mana para penyembah merasa menjadi satu dengan dewa, melampaui batasan rasionalitas dan membuka imajinasi mereka.
+
+Agama Dionysus berkembang menjadi bentuk spiritual yang lebih mendalam melalui [Orpheus](https://en.wikipedia.org/wiki/Orpheus), seorang figur mistis yang dianggap sebagai reformator. [Orphisme](https://en.wikipedia.org/wiki/Orphism), yang diasosiasikan dengan Dionysus, menekankan asketisme dan transendensi melalui pembersihan spiritual. Para pengikut Orphisme percaya pada transmigasi jiwa dan kehidupan murni untuk mencapai keilahian. Dalam pandangan mereka, manusia adalah makhluk setengah duniawi dan setengah ilahi, dan melalui kehidupan yang benar, elemen ilahi dalam diri manusia dapat diperbesar hingga akhirnya bersatu dengan Bacchus.
+
+Ritual mereka sering bersifat simbolis, menggantikan elemen fisik dengan makna spiritual. Mitologi Dionysus mencerminkan dualitas ini, seperti cerita tentang kelahirannya yang ganda dari Zeus, dan pengorbanannya oleh para Titan yang memakan dagingnya tetapi menyelamatkan hatinya. Kisah ini melambangkan gagasan manusia sebagai makhluk yang terdiri dari unsur duniawi dan ilahi.
+
+Tradisi Orphic bahkan memberikan panduan kepada jiwa-jiwa di alam baka melalui tablet-tablet ritual, menunjukkan bagaimana jiwa dapat mencapai keselamatan dengan minum dari mata air Mnemosyne (ingatan) dan menghindari Lethe (lupaa). Ingatan, dalam tradisi ini, adalah kunci menuju transendensi spiritual. Pengaruh Orphisme sangat besar terhadap filsafat Yunani, terutama melalui [Pythagoras](https://en.wikipedia.org/wiki/Pythagoras), yang mengintegrasikan elemen mistis ini ke dalam kerangka pemikiran yang lebih logis. Tradisi ini juga berdampak pada ajaran [Plato](https://en.wikipedia.org/wiki/Plato) dan bahkan teologi Kristen.
+
+Dengan menggantikan unsur fisik dalam ritual Dionysus dengan makna simbolis, Orphisme memberikan landasan spiritual yang mendalam bagi perkembangan seni, filsafat, dan agama di dunia Yunani, menjadikannya salah satu pengaruh paling signifikan dalam peradaban kuno.
+
+### **Filsafat sebagai Cara Hiidup**
+Unsur-unsur Orphisme, yang awalnya berasal dari kultus Dionysus, memasuki filsafat Yunani melalui pengaruh Pythagoras dan Plato, lalu berkembang dalam filsafat religius berikutnya. Salah satu elemen penting dari Orphisme yang tetap bertahan adalah penghargaan terhadap emosi yang kuat dan kesetaraan gender, yang tercermin dalam ajara Plato tentang kesetaraan politik perempuan.
+
+Dalam dunia seni, terutama dalam tragedi Yunani karya Euripides, kita melihat dampak dari ritual Dionysus yang sangat berbeda dengan pandangan Yunani tentang ketenangan (serenity). Euripides seriiing menggambarkan manusia yang dipenuhi dengan konflik internal, emosi, dan pencarian spiritual yang mendalam, bertolak belakang dengan gambaran ketenangan yang sering diasosiasikan dengan kebudayaan Yunani.
+
+Yunani, dengan pemikiran filosofisnya yang luas, memiliki dua kecenderungan besar dalam pandangannya terhadap kehidupan:
+	**pertama**, mereka yang mengutamakan agama dan mistisisme, seperti yang ditemukan dalam ajaran Orphisme, yang melihat dunia ini sebagai tempat penuh penderitaan dan mencari pembebasan melalui asketisme dan pemurnian spiritual;
+	**kedua**, mereka yang lebihi rasional dan empiris, yang tertarik pada pengetahuan duniawi.
+
+Meskipun keduanya ada di Yunani, Orphisme lebih menekankan pandangan dunia yang berfokus pada kehidupan setelah mati, dengan ritual-ritual sakramental yang bertujuan untuk menyucikan jiwa dan membawa jiwa menuju persatuan dengan Tuhan.
+
+Komunitas Orphik, yang berkembang sebagai gerakan religius, menciptakan model baru darii komunitasaa terbuka, yang menerima semua orang tanpa memandang ras atau jenis kelamin. Mereka mengajarkan bahwaaa kehidupan dunia ini hanyalah sementara dan penuh penderitaan, dan hanyaa dengan mengikuti jalan asketis mereka bisa mencapai kebahagiaan abadi.
+
+Mereka juga memperkenalkan konsep-konsep yang mirip dengan ajaran-ajaran agama Timur, termasuk transmigrasi jiwa dan pencarian wahyu sebagai otoritas spiritual. Kepercayaan mereka sangat mirip dengan pandangan yang berkembang di India pada masa yang sama, meskipun tidak ada bukti kontak langsung antara kedua tradisi tersebut.
+
+Pengaruh Orphisme ini juga memperkenalkan ide bahwa filsafat tidak hanya sebatas pengetahuan, tetapi sebagai cara hidup yang membantu manusia mencapai pembebasan spiritual. Hal ini membuka jalan bagi perkembangan filsafat Yunani sebagai sesuatu yang lebih dari sekadar pencarian intelektual, tetapi juga sebagai panduan hidup yang lebih dalam dan lebih bermakna.
+
+Dalam banyak hal, Orphiisme mempersiapkan panggung bagi perkembangan lebih lanjut dalam filsafat etis dan religius, memberikan dampak yang jauh melampaui batasan waktu dan ruang di dunia Yunani kuno.
+___
+
+
+
+## Chapter II: The Milesian School
+___
+
