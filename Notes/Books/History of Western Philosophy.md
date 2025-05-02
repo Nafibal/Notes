@@ -142,4 +142,27 @@ ___
 
 ## Chapter II: The Milesian School
 ___
+### **Konteks Aliran Filsafat Milesian**
+Pengajaran Filsafat sering dimulai dengan kisah [Thales](https://en.wikipedia.org/wiki/Thales_of_Miletus), seorang pemiikir Yunani kuno yang menyatakan bahwa segala sesuatu berasal dari air. Pendekatan ini sering kali membuat pelajar pemula merasa kurang antusias atau bahkan bingung, karena pernyataan tersebut terdengar terlalu sederhana untuk menjadi dasar dari sebuah disiplin ilmu yang dianggap mendalam seperti filsafat.
 
+Namun, pandangan ini tidak berarti bahwa Thales layak diremehkan. Sebaliknya, Thales patut dihormati, meskipun mungkin lebih sebagai seorang ilmuwan daripada seorang filsuf dalam pengertian modern. Pendapatnya tentang air sebagai asal mula segalanya mencerminkan upaya awal manusia untuk memahami alam semesta melalui pendekatan rasional, bukan sekadar mitos atau kepercayaan tradisional.
+
+### **Thales: Filosof Pertama**
+Thales adalah seorang filsuf yang berasal dari [Miletus](https://en.wikipedia.org/wiki/Miletus), sebuah kota perdagangan yang makmur d Asia Minor. Kota ini dikenal dengan masyarakatnya yang terpecah antara kaum kaya dan kaum miskin, sering kali terlibat dalam konflik kelas yang sengit.
+
+Awalnya, Miletus dikuasai oleh aristokrasi pemilik tanah, lalu berahil ke plutokrasi pedagang, dan akhirnya dipimpin oleh seorang tiran yang mendapat dukungaan dari kelompok demokrat. Meski berada dalam lingkungan yang penuh gejolak, Miletus berhasil menjaga hubungan baik dengan kerajaan Lydia, Mesir, dan wilayah-wilayah lain, yang membuka peluang bagi pertukaran budaya dan perdagangan.
+
+Thales terkenal karena berhasil memprediksi gerhana matahari pada tahun 585 SM, suatu prestasi yang kemungkinan didasarkan pada pengetahuan dari astronom Babilonia tentang siklus gerhana. Selain itu, Thales juga dikenal sebagai perintis ilmu geometri. Ia diperkirakan membawa ilmu ini dari Mesir ke Yunani dan menemukan cara untuk mengukur jarak kapal di laut serta menghitung tinggi piramida dari bayangannya. Beberapa teorema geometri juga dikaitkan dengannya, meskipun banyak yang tidak dapat dipastikan sebagai hasil karyanya.
+
+Dalam bidang filsafat, Thales mengemukakan gagasan bahwa air adalah unsur dasar dari segala sesuatu. Pandangan ini dianggap sebagai hipotesis ilmiah yang cukup masuk akal pada zamannya. ia juga berpendapat bahwa bumi mengapung di atas air, magnet memiliki jiwa karena bisa menggerakkan besi, dan seluruh alam semesta penuh dengan "dewa-dewa".
+
+Meskipun ilmunya dianggap sederhana, pemikiran Thales berhasil memicu pengamatan dan pemikiran rasional yang menjadi landasan bagi para penerusnya di Miletus. Ia termasuk dalam kelompok "Tujuh Orang Bijak" Yunani dan dihormati atas kontribusinya dalam filsafat dan ilmu pengetahuan.
+
+Salah satu kisah menarik tentang Thales diceritakan oleh Aristoteles. Suatu ketika, ia diejek karena kemiskiinannya, yang dianggap membuktikan bahwa filsafat tidak berguna. Namun, Thales membuktikan sebaliknya. Dengan keterampilannya dalam membaca tanda-tanda bintang, ia memprediksi panen zaitun yang melimpah pada tahun berikutnya. Ia kemudian menyewa semua alat pemeras zaitun dengan harga murah saat musim dingin, dan ketika panen tiba, ia melepasnya kembali dengan harga tinggi. Dengan cara ini, Thales menghasilkan banyak uang, membuktikan bahwa filsuf bisa kaya jika mereka menginginkannya, meskipun ambisi mereka biasanya bukan soal materi.
+
+Thales adalah tokoh yang meskipun sederhana, memiliki pengaruh besar dalam membuka jalan bagi filsafat dan ilmu pengetahuan. Kisah hidup dan pemikirannya tetap menjadi inspirasi hingga hari ini.
+
+### **Anaximander: Apeiron dan Dike**
+[Anaximander](https://en.wikipedia.org/wiki/Anaximander) adalah filsuf kedua dari aliran Milesian dan dianggap lebih menarik daripada Thales. Ia diperkirakan hidup sekitaar tahun 546 SM. Anaximander memperkenalkan gagasan, bahwa segala sesuatu berasal dari satu substansi dasar yang tak terbatas, kekal, dan abadi.
+
+Berbeda dengan Thales, yang menganggap air sebagai substansi dasar, Anaximander berpendapat bahwa substansi primal ini tidak bisa dikenalsi sebagai salah satu elemen yang kita kenal, seperti air, api, atau udara. Substansi ini bersifat netral dan berperan dalam menciptakan banyak dunia, termasuk dunia kita, yang menurut Anaximander hanyalah salah satu dari banyak dunia yang ada di alam semesta. Ia percaya bahwa elemen-elemen seperti api, air, dan tanah saling bertransformasi, dan dalam proses itu terdapat hukum alam yang menjaga keseimbangan, yang disebutnya sebagai "keadilan kosmik".
